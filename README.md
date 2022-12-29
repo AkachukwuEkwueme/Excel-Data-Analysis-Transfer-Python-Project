@@ -1,2 +1,2 @@
-# Excel-Data-Analysis-Transfer-Python-Project
+# Excel-Data-Analysis-Transfer-Project
 Utilized Python to automate results transfer to excel
